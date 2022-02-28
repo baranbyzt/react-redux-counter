@@ -1,0 +1,30 @@
+
+.wrapper{
+    width: 600px;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5%;
+    
+}
+.innerDive{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.textSection{
+text-align: center;
+font-size: 30px;
+margin-bottom: 80px;
+}
+
+.buttonSection{
+    width: 60px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #fff;
+    font-size: 24px;
+}
